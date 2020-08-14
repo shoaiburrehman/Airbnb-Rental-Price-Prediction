@@ -30,7 +30,7 @@
 * The Random Forest model performed better than the other approaches on the test set. 
 
 Model Used | R2 Score | MAE | RMSE 
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 Random Forest | 45.02% | 45.08 | 67.07
 Decision Tree	 | 42.38% | 46.37 | 70.40
 Lasso Regression	 | 39.42% | 47.97 | 70.40
