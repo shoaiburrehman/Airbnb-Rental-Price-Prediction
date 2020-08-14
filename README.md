@@ -9,8 +9,8 @@
 
 
 ## Resources We Used
-* Python version 3.8
+
 * Jupyter Notebook
 * We used pandas, numpy, sklearn, matplotlib, seaborn, folium packages.
-* Dataset Link: https://www.kaggle.com/emmarex/plant-disease-detection-using-keras
+* Dataset Link: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data/notebooks
 
